@@ -1,4 +1,4 @@
-/*bagian body*/
+/* bagian body */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
@@ -8,7 +8,7 @@ body {
     background-color: beige;
 }
 
-/*bagian container*/
+/* bagian container */
 .container {
     background: white;
     padding: 20px;
@@ -20,7 +20,7 @@ body {
     width: 400px;
 }
 
-/*bagian input, select, button*/
+/* bagian input, select, button */
 input, select, button {
     margin: 10px;
     padding: 10px;
@@ -28,7 +28,7 @@ input, select, button {
     width: 90%;
 }
 
-/*bagian warna button*/
+/* bagian warna button */
 .biru {
     background-color: #007BFF;
     color: white;
@@ -36,6 +36,7 @@ input, select, button {
     border-radius: 10px;
     cursor: pointer;
 }
+
 .orange {
     background-color: #FFA500;
     color: white;
